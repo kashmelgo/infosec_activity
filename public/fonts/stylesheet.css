@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Groovy Script Extrude';
+    src: url('GroovyScriptExtrude-Regular.woff2') format('woff2'),
+        url('GroovyScriptExtrude-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Groovy Script';
+    src: url('GroovyScript-Regular.woff2') format('woff2'),
+        url('GroovyScript-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

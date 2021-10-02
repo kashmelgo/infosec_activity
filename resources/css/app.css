@@ -1,0 +1,12 @@
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+@layer base {
+    @font-face{
+        font-family: "Groovy Script";
+        src: url('public/fonts/GroovyScript-Regular.woff2') format('woff2'), url('public/fonts/GroovyScript-Regular.woff') format('woff');
+    }
+}
